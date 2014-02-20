@@ -1,0 +1,5 @@
+CHANGE_LOG========================================
+1.0-----------------------------------------------
+1. Basic set of interfaces and their implementations to provide CRUD and persistence operations;
+2. Hashmap based inmemory storage;
+3. Command line based input.
